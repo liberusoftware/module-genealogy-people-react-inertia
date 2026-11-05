@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-people-react-inertia",
+  "capabilityKey": "liberusoftware/module-genealogy-people",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-genealogy-people-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/genealogy/nextjs/people.md",
+  "presentationPlan": "projects/genealogy/react/people.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
